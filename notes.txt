@@ -2,3 +2,4 @@ AWS Learning Journey
 EC2
 IAM
 VPC
+Learning Git from scratch. 
